@@ -44,5 +44,6 @@ public class lesson5 {
                         if (persArray[i].age > 40) persArray[i].print();
                     }
                 }
+                
             }
 
